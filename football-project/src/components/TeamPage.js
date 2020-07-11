@@ -55,11 +55,6 @@ const mapStateToProps = state => {
     }
   }
   
-//   const mapDispatchToProps = dispatch => {
-//     return {
-//       fetchTeamPage: () => dispatch(fetchTeamPage())
-//     }
-//   }
   
   export default connect(
     mapStateToProps,
